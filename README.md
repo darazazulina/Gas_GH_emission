@@ -17,41 +17,39 @@
 
 <p align="center">
     <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-1.JPG" alt="Рис 1" />
+    Умная таблица исходных данных
 </p>
 
 ## Выбросы континентов
 
 На основании данных созданы сводные таблицы для отображения количества выбросов по континентам. В соответствии с ними по количеству выбросов как CO2, так и парниковых газов лидирует Азия. Меньшее количество выбросов CO2 присуще Океании, а меньшее количество выбросов парниковых газов относится к Южной Америке.
 
-<center>
-<figure>
-    <img src="/images/pic-2.jpg" alt="Рис 2" />
-    <figcaption>Сводная таблица выбросов CO2 по континентам</figcaption>
-</figure>
-</center>
 
-<center>
-<figure>
-    <img src="/images/pic-3.jpg" alt="Рис 3" />
-    <figcaption>Сводная таблица выбросов парниковых газов по континентам</figcaption>
-</figure>
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-2.JPG" alt="Рис 2" />
+    Сводная таблица выбросов CO2 по континентам
+</p>
+
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-3.JPG" alt="Рис 3" />
+    Сводная таблица выбросов парниковых газов по континентам
+</p>
 
 Более наглядно распределение количества выбросов газов по континентам отражено на графиках.
 
-<center>
-    <img src="/images/pic-4.jpg" alt="Рис 4" />
-    <img src="/images/pic-5.jpg" alt="Рис 5" />
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-4.JPG" alt="Рис 4" />
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-5.JPG" alt="Рис 5" />
+</p>
 
 ## Доля выбросов континентов
 
 Долевой вклад в создание газовых выбросов помогают оценить круговые диаграммы. По ним можно наблюдать процент вклада каждого кантинента в общее число выбросов.
 
-<center>
-    <img src="/images/pic-6.jpg" alt="Рис 6" />
-    <img src="/images/pic-7.jpg" alt="Рис 7" />
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-6.JPG" alt="Рис 6" />
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-7.JPG" alt="Рис 7" />
+</p>
 
 ## Выбросы стран
 
@@ -59,24 +57,24 @@
 
 По полученным сводным таблицам можно увидеть, что большее количество CO2 производит Индонезия, а парниковых газов - Китай.
 
-<center>
-    <img src="/images/pic-8.jpg" alt="Рис 8" />
-    <img src="/images/pic-9.jpg" alt="Рис 9" />
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-8.JPG" alt="Рис 8" />
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-9.JPG" alt="Рис 9" />
+</p>
 
 Для визуализации созданы линейчатые диаграммы как для выбросов CO2, так и парниковых газов. Они наглядно отражают 10 самых загрязненных стран.
 
-<center>
-    <img src="/images/pic-10.jpg" alt="Рис 10" />
-    <img src="/images/pic-11.jpg" alt="Рис 11" />
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-10.JPG" alt="Рис 10" />
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-11.JPG" alt="Рис 11" />
+</p>
 
 ## Дашборд
 
 Все созданные графики объединены в один дашборд для более полного понимания распределения объемов выбрасов. Также размещен срез, позволяющий фильтровать данные по континенту.
 
-<center>
-    <img src="/images/pic-12.jpg" alt="Рис 12" />
-</center>
+<p align="center">
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-12.JPG" alt="Рис 12" />
+</p>
 
 Дашборд позволяет наблюдать за статистическими даннами, а также интерактивно взаимодействовать с графиками.
