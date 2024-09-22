@@ -17,7 +17,7 @@
 
 <center>
 <figure>
-    <img src="https://github.com/darazazulina/Gas_GH_emission/master/images/pic-1.jpg" alt="Рис 1" />
+    <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-1.JPG" alt="Рис 1" />
     <figcaption>Умная таблица исходных данных</figcaption>
 </figure>
 </center>
