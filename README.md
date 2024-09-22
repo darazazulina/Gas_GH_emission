@@ -17,6 +17,7 @@
 
 <p align="center">
     <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-1.JPG" alt="Рис 1" />
+    
     Умная таблица исходных данных
 </p>
 
@@ -27,11 +28,13 @@
 
 <p align="center">
     <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-2.JPG" alt="Рис 2" />
+    
     Сводная таблица выбросов CO2 по континентам
 </p>
 
 <p align="center">
     <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-3.JPG" alt="Рис 3" />
+    
     Сводная таблица выбросов парниковых газов по континентам
 </p>
 
