@@ -15,12 +15,12 @@
 - Greenhouse Gas Emissions (Mt): общий объем выбросов парниковых газов (миллион метрических тонн);
 - Continent: континент, на котором расположена страна или регион.
 
-<center>
+<p align="center">
 <figure>
     <img src="https://github.com/darazazulina/Gas_GH_emission/blob/main/images/pic-1.JPG" alt="Рис 1" />
     <figcaption>Умная таблица исходных данных</figcaption>
 </figure>
-</center>
+</p>
 
 ## Выбросы континентов
 
